@@ -23,7 +23,7 @@ The Trinity Wellness Psychiatric Clinic website is designed to provide informati
 1. Clone the repository or download the ZIP file.
 2. Open the `index.html` file in your preferred web browser to view the project.
 
-`git clone https://github.com/Skylar-Lorena/trinity-wellness-clinic.git`
+`git clone https://github.com/Skylar-Lorena/.git`
 
 ## Usage
 
