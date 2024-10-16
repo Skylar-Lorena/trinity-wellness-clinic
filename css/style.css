@@ -105,8 +105,8 @@ section{
 }
 
 .home{
-   background:url(../images/logo.png) no-repeat;
-   background-size:980px;
+   background:url(../images/home-bg.jpg) no-repeat;
+   background-size:cover;
    background-position: right;
 }
 
@@ -118,13 +118,13 @@ section{
 .home .content h3{
    font-size: 6rem;
    text-transform: uppercase;
-   color:var(--black);
+   color:var(--blue);
 }
 
 .home .content p{
    line-height: 2;
    font-size: 1.5rem;
-   color:var(--light-color);
+   color:var(--black);
    padding:1rem 0;
    padding-bottom:0;
 }
